@@ -60,7 +60,7 @@ Used powerpoint to create engaging lessons for Lingoda GmbH:
 
 ---
 
-## Impact   
+## Impact in the Classroom
 
 - Raised 73% of students’ LEAP scores to the next highest level | East Jefferson High School, Metairie, LA (_2023_)  
 - Increased student attendance of classes by 40% | Collateral Repair Project, Amman, Jordan (_2019_)  

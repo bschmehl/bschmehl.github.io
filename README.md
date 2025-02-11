@@ -43,9 +43,9 @@
 Worked with Articulate Storyline to create an interactive learning platform for Refugees in Lebanon learning English and German:
 [Akelius Languages](https://languages.akelius.com/)
 
-Used Powerpoint to create engaging lessons for 
-[Akelius Languages](https://languages.akelius.com/)
+Used powerpoint to create engaging lessons for Lingoda GmbH:
 
+![Lingoda GmbH](/images/Lingoda.png)
 ---
 
 ## Other Experience  
